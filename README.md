@@ -4,6 +4,8 @@
   </a>
 </p>
 
+<p align="center">
+<img width="150" height="20" alt="Image" src="https://github.com/user-attachments/assets/469cd2b4-1f44-42bc-b926-2d7b8071df55" />
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=whisperyyy&label=nullings%20&color=3D3D6C&style=flat" alt="xhaevn" /> </p>
 
