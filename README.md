@@ -9,7 +9,8 @@
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=whisperyyy&label=nullings%20&color=3D3D6C&style=flat" alt="xhaevn" /> </p>
 
-$\color{darkblue}{\textsf{IㅤlookedㅤinㅤtheㅤmirrorㅤandㅤsawㅤtheㅤpersonㅤIㅤspentㅤyearsㅤtryingㅤnotㅤtoㅤbecome.ㅤ}}$
+$\color{darkblue}{\textsf{IㅤlookedㅤinㅤtheㅤmirrorㅤandㅤsawㅤtheㅤpersonㅤIㅤspentㅤyearsㅤtryingㅤnotㅤtoㅤbecome.ㅤ}}$ 
+<img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/74a19a8a-4a43-462e-a090-135a2218a88b" />
 
 
 <img width="836" height="1188" alt="Image" src="https://github.com/user-attachments/assets/db8015bd-aec3-466c-ac4c-a42e1e295419" />
