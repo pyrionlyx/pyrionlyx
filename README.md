@@ -5,12 +5,12 @@
 </p>
 
 
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=whisperyyy&label=nullings%20&color=2E0404&style=flat" alt="xhaevn" /> </p>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=whisperyyy&label=nullings%20&color=3D3D6C&style=flat" alt="xhaevn" /> </p>
 
 $\color{darkblue}{\textsf{IㅤlookedㅤinㅤtheㅤmirrorㅤandㅤsawㅤtheㅤpersonㅤIㅤspentㅤyearsㅤtryingㅤnotㅤtoㅤbecome.ㅤ}}$
 
 
-<img width="523" height="477" alt="Image" src="https://github.com/user-attachments/assets/90edf509-609f-4f67-893a-5baacc36ef29" />
+<img width="836" height="1188" alt="Image" src="https://github.com/user-attachments/assets/db8015bd-aec3-466c-ac4c-a42e1e295419" />
 
 $\color{darkred}{\textsf{Mapicc...ㅤIㅤwillㅤgetㅤyouㅤoutㅤofㅤthis.ㅤ}}$ㅤㅤ
 $\color{white}{\textsf{AndㅤmaybeㅤIㅤwillㅤseeㅤyouㅤagain,ㅤ}}$ㅤㅤ
