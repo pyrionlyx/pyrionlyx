@@ -5,7 +5,7 @@
 </p>
 
 <div align="center"> 
-<img src="https://komarev.com/ghpvc/?username=whisperyyy&label=nullings%20&color=3D3D6C&style=flat" alt="xhaevn" /> </p>
+<img src="https://komarev.com/ghpvc/?username=whisperyyy&label=clonefies%20&color=BE6EB0&style=flat" alt="xhaevn" /> </p>
 
 <p align="center">
 <img width="2840" height="1999" alt="Image" src="https://github.com/user-attachments/assets/9f56cd38-ea48-4126-ae49-b0ae4b21cfca" />
