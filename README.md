@@ -4,11 +4,9 @@
   </a>
 </p>
 
-<p align="center">
-
-
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=whisperyyy&label=nullings%20&color=3D3D6C&style=flat" alt="xhaevn" /> </p>
 
-
+<p align="center">
+<img width="2840" height="1999" alt="Image" src="https://github.com/user-attachments/assets/9f56cd38-ea48-4126-ae49-b0ae4b21cfca" />
 
 [atabook](https://spiralyxx.atabook.org/)
