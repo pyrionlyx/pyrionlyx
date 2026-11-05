@@ -9,4 +9,6 @@
 <p align="center">
 <img width="2840" height="1999" alt="Image" src="https://github.com/user-attachments/assets/9f56cd38-ea48-4126-ae49-b0ae4b21cfca" />
 
+Hello! Nice to meet you, c+h are always open! Though I may not talk much since I'm mostly offtab..Just whisper me and I'll try my best to whisper back !!
+
 [atabook](https://spiralyxx.atabook.org/)
