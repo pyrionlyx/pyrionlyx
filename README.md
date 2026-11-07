@@ -15,7 +15,7 @@ Hello! Nice to meet you, c+h are always open! Though I may not talk much since I
 --------------------------------------------
 
 <p align="left">
-<img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/b4cc59f7-9d49-4c43-a2c5-2b8d3e051635" />
+<img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/b4cc59f7-9d49-4c43-a2c5-2b8d3e051635" /> WIPPP
 
 --------------------------------------------
 
